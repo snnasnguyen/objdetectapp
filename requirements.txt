@@ -1,7 +1,6 @@
 torch
 numpy
 Pillow
-opencv-python
 torchvision
 streamlit
 opencv-python-headless
